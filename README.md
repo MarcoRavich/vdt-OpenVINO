@@ -1,5 +1,5 @@
-# vhs-decode-tools
-Tools for the automation of capture preprocessing, decoding and video generating. Also for restoration of captured content
+# OpenVINO vhs-decode-tools
+Tools for the automation of capture preprocessing, decoding and video generating. Also for restoration of captured content using Intel Hardware.
 
 # Restauration
 This is an attempt to restore quality of the captured and decoded content. vhs-decode itself already does a great job in terms of quality, but it can be enhanced further. That is done with the help of AI models I trained on VHS PAL and MESECAM content.
